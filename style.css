@@ -72,6 +72,12 @@ img {
 #name {
   font-weight: bold;
 }
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: #cccccc;
+  font-size: 13px;
+}
 
 /* .grid1,
 .grid2,
